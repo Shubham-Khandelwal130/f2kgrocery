@@ -503,7 +503,7 @@ h2.heading,h3.heading {
 }
 section.service-w3ls {
     background-color: #7ad1fe;
-    background: url(../images/services.jpg) no-repeat 0px 0px;
+    background: url(../images/services_background.webp) no-repeat 0px 0px;
     background-size: cover;
 }
 .ch-grid {
